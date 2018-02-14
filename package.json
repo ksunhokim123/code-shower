@@ -2,7 +2,7 @@
   "name": "code-shower",
   "main": "./lib/code-shower",
   "version": "1.2.0",
-  "description": "A short description of your package",
+  "description": "ho!",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "code-shower:source"
