@@ -5,6 +5,7 @@
   "description": "ho!",
   "keywords": [],
   "activationCommands": {
+    "atom-workspace": "code-shower:activate",
     "atom-workspace": "code-shower:source"
   },
   "repository": "https://github.com/ksunhokim123/code-shower",
