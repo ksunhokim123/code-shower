@@ -4,15 +4,15 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "shower-plugin",
+          "label": "code-shower",
           "submenu": [
             {
               "label": "Activate",
-              "command": "shower-plugin:activate"
+              "command": "code-shower:activate"
             },
             {
               "label": "Source",
-              "command": "shower-plugin:source"
+              "command": "code-shower:source"
             }
           ]
         }

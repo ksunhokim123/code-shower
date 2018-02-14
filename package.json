@@ -1,15 +1,15 @@
 {
-  "name": "shower-plugin",
-  "main": "./lib/shower-plugin",
+  "name": "code-shower",
+  "main": "./lib/code-shower",
   "version": "1.0.0",
   "description": "A short description of your package",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "shower-plugin:activate",
-    "atom-workspace": "shower-plugin:source"
+    "atom-workspace": "code-shower:activate",
+    "atom-workspace": "code-shower:source"
   },
-  "repository": "https://github.com/ksunhokim123/shower-plugin",
+  "repository": "https://github.com/ksunhokim123/code-shower",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
