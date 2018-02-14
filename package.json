@@ -1,0 +1,19 @@
+{
+  "name": "shower-plugin",
+  "main": "./lib/shower-plugin",
+  "version": "1.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "shower-plugin:activate",
+    "atom-workspace": "shower-plugin:source"
+  },
+  "repository": "https://github.com/ksunhokim123/shower-plugin",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "shower-plugin",
+          "submenu": [
+            {
+              "label": "Activate",
+              "command": "shower-plugin:activate"
+            },
+            {
+              "label": "Source",
+              "command": "shower-plugin:source"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
