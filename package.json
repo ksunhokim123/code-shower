@@ -1,7 +1,7 @@
 {
   "name": "code-shower",
   "main": "./lib/code-shower",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "description": "ho!",
   "keywords": [],
   "repository": "https://github.com/ksunhokim123/code-shower",
