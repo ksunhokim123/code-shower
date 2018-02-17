@@ -7,8 +7,12 @@
           "label": "Code Shower",
           "submenu": [
             {
-              "label": "Activate",
-              "command": "code-shower:activate"
+              "label": "ID",
+              "command": "code-shower:id"
+            },
+            {
+              "label": "Reload",
+              "command": "code-shower:reload"
             },
             {
               "label": "Source",
